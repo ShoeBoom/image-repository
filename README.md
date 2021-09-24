@@ -5,6 +5,11 @@
 ```
 pip install -r requirements.txt
 ```
+
+### Testing
+```
+python -m unittest
+```
 ## Usage
 Run the following command to startup the app
 ```
